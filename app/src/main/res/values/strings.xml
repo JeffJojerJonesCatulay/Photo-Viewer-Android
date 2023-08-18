@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Photo Library Blog</string>
+
+    <string name="l1_name">Chariot</string>
+    <string name="l1_date">May 1, 2019</string>
+    <string name="l1_des">The photo is taken at the Rizal Park while in the middle of riding the chariot. \nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l2_name">Temple</string>
+    <string name="l2_date">May 1, 2019</string>
+    <string name="l2_des">The photo was taken at the Rizal Park, Manila on a one day travel. \nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l3_name">Hallway</string>
+    <string name="l3_date">May 1, 2019</string>
+    <string name="l3_des">The photo was taken while exploring the well known National Museum of the Philippines. \nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l4_name">Marching Band</string>
+    <string name="l4_date">May 1, 2019</string>
+    <string name="l4_des">The Marching Band just happen to pass us while walking around the Rizal Park.\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l5_name">The Statue</string>
+    <string name="l5_date">May 1, 2019</string>
+    <string name="l5_des">This photo is one of the well known statue inside our very own National Museum\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l6_name">Lone Cat</string>
+    <string name="l6_date">June 8, 2019</string>
+    <string name="l6_des">The photo of a cat while spending a day alone in a condominuim. \nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l7_name">Dream Catcher</string>
+    <string name="l7_date">June 8, 2019</string>
+    <string name="l7_des">I believe that dreams meant more than just a dream. The photo shows the dream catcher hanging from my ceiling\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l8_name">Pizza Party</string>
+    <string name="l8_date">Dec 16, 2019</string>
+    <string name="l8_des">Pizza is great with or without pineapple, that\'s it!\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l9_name">Angel of Dark</string>
+    <string name="l9_date">Sept 1, 2019</string>
+    <string name="l9_des">The photo is also taken at the National Museum at the artifacts section, that showcased an angel curved in the stones.\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l10_name">Light</string>
+    <string name="l10_date">Sept 1, 2019</string>
+    <string name="l10_des">Cause you get lighter the more it get\'s dark.\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l11_name">National Museum</string>
+    <string name="l11_date">June 8, 2019</string>
+    <string name="l11_des">National Museum is a place to explore lot in the Philippine History.\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l12_name">Fav Food</string>
+    <string name="l12_date">May 1, 2019</string>
+    <string name="l12_des">Food is better with someone you love!\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l13_name">Empty Bed</string>
+    <string name="l13_date">Dec 7, 2019</string>
+    <string name="l13_des">The photo was taken in one of the room in the Batis Aramin Resort, Lucban, Quezon Province\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l14_name">Fortune Fountain</string>
+    <string name="l14_date">Dec 7, 2019</string>
+    <string name="l14_des">The photo showcased the Fortune Fountain located at the Quezon Province. I hope it brings me fortune!\nPhoto Taken by Jeff Catulay</string>
+
+    <string name="l15_name">Cat Love</string>
+    <string name="l15_date">Dec 8, 2019</string>
+    <string name="l15_des">Cat == Love, proven in the photo.\nPhoto Taken by Jeff Catulay</string>
+</resources>
